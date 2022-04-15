@@ -666,7 +666,8 @@ label {
 }
 
 #minting-dapp .collection-status .current-sale .label {
-  color: rgb(255 255 255/var(--tw-text-opacity))
+    --tw-text-opacity: 1;
+    color: rgb(255 255 255/var(--tw-text-opacity))
 }
 
 #minting-dapp .collection-status .supply .label {
@@ -676,7 +677,8 @@ label {
 }
 
 #minting-dapp .collection-status .current-sale.supply {
-  color: rgb(255 255 255/var(--tw-text-opacity))
+    --tw-text-opacity: 1;
+    color: rgb(255 255 255/var(--tw-text-opacity))
 }
 
 #minting-dapp .collection-status .supply.supply {
