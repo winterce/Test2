@@ -642,6 +642,7 @@ label {
 
 @media (min-width:640px) {
   #minting-dapp .collection-status .user-address {
+    --tw-text-opacity: 1;
     color: rgb(255 255 255/var(--tw-text-opacity));
     grid-column: span 2/span 2
   }
