@@ -470,7 +470,7 @@ input[type=text]:disabled:hover {
 
 label {
   --tw-text-opacity: 1;
-  color: rgb(79 70 229/var(--tw-text-opacity));
+  color: rgb(255 255 255/var(--tw-text-opacity));
   font-size: .875rem;
   font-weight: 600;
   line-height: 1.25rem;
