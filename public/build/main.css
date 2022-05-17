@@ -669,7 +669,6 @@ label {
   text-overflow: ellipsis;
   white-space: nowrap;
   width: 100%;
-  color: rgb(255 255 255/var(--tw-text-opacity))
 }
 
 #minting-dapp .collection-status .current-sale .label {
