@@ -812,8 +812,6 @@ label {
 #minting-dapp .mint-widget .controls .decrease,
 #minting-dapp .mint-widget .controls .mint-amount {
   --tw-border-opacity: 1;
-  --tw-text-opacity: 1;
-  color: rgb(255 255 255/var(--tw-text-opacity));
   border-color: rgb(255 255 255/var(--tw-border-opacity));
   border-bottom-width: 1px
 }
